@@ -1,0 +1,8 @@
+/Users/chrisavery/Documents/code/tutorials/f#/fabel/First/src/bin/Debug/netstandard2.0/App.deps.json
+/Users/chrisavery/Documents/code/tutorials/f#/fabel/First/src/bin/Debug/netstandard2.0/App.dll
+/Users/chrisavery/Documents/code/tutorials/f#/fabel/First/src/bin/Debug/netstandard2.0/App.pdb
+/Users/chrisavery/Documents/code/tutorials/f#/fabel/First/src/obj/Debug/netstandard2.0/App.fsprojAssemblyReference.cache
+/Users/chrisavery/Documents/code/tutorials/f#/fabel/First/src/obj/Debug/netstandard2.0/App.AssemblyInfoInputs.cache
+/Users/chrisavery/Documents/code/tutorials/f#/fabel/First/src/obj/Debug/netstandard2.0/App.AssemblyInfo.fs
+/Users/chrisavery/Documents/code/tutorials/f#/fabel/First/src/obj/Debug/netstandard2.0/App.dll
+/Users/chrisavery/Documents/code/tutorials/f#/fabel/First/src/obj/Debug/netstandard2.0/App.pdb

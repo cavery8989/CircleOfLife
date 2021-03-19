@@ -1,0 +1,78 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/chrisavery/Documents/code/tutorials/f#/fabel/First/src/App.fsproj": {}
+  },
+  "projects": {
+    "/Users/chrisavery/Documents/code/tutorials/f#/fabel/First/src/App.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/chrisavery/Documents/code/tutorials/f#/fabel/First/src/App.fsproj",
+        "projectName": "App",
+        "projectPath": "/Users/chrisavery/Documents/code/tutorials/f#/fabel/First/src/App.fsproj",
+        "packagesPath": "/Users/chrisavery/.nuget/packages/",
+        "outputPath": "/Users/chrisavery/Documents/code/tutorials/f#/fabel/First/src/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/chrisavery/Documents/code/tutorials/f#/fabel/First/NuGet.Config",
+          "/Users/chrisavery/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "generatePathProperty": true
+            },
+            "Fable.Browser.Dom": {
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "generatePathProperty": true
+            },
+            "Fable.Core": {
+              "target": "Package",
+              "version": "[3.2.3, )",
+              "generatePathProperty": true
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true,
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

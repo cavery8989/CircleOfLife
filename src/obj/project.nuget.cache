@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "mu+vhgdHHun5CgryxxQ17AkkBo7nFiHf0M0KBnjBsTaX+3aElweE3WAwemxMKgj6go4vYXDo77x6hzTQvk7LgA==",
+  "success": true,
+  "projectFilePath": "/Users/chrisavery/Documents/code/tutorials/f#/fabel/First/src/App.fsproj",
+  "expectedPackageFiles": [
+    "/Users/chrisavery/.nuget/packages/fable.browser.blob/1.1.0/fable.browser.blob.1.1.0.nupkg.sha512",
+    "/Users/chrisavery/.nuget/packages/fable.browser.dom/2.2.0/fable.browser.dom.2.2.0.nupkg.sha512",
+    "/Users/chrisavery/.nuget/packages/fable.browser.event/1.2.1/fable.browser.event.1.2.1.nupkg.sha512",
+    "/Users/chrisavery/.nuget/packages/fable.browser.webstorage/1.0.0/fable.browser.webstorage.1.0.0.nupkg.sha512",
+    "/Users/chrisavery/.nuget/packages/fable.core/3.2.3/fable.core.3.2.3.nupkg.sha512",
+    "/Users/chrisavery/.nuget/packages/fsharp.core/5.0.0/fsharp.core.5.0.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
